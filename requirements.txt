@@ -1,0 +1,10 @@
+numpy
+librosa
+soundfile
+sounddevice
+scikit-learn
+tensorflow
+pygame-ce
+joblib
+fastapi
+uvicorn
